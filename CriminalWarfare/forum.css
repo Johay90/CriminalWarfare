@@ -1,0 +1,35 @@
+.Left{
+	float:left;
+}
+.Right{
+	float:right;
+}
+
+input.newtopic{
+	width: 77%;	
+}
+
+select, option{
+	background-color: #6B6B6B;
+	height: 20px;
+	width: 125px;
+	font-family:Verdana;
+	-moz-appearance: none;
+}
+
+select{
+		border: 1px solid black;
+}
+
+select:focus{
+	outline: none;
+}
+
+a.linkname, a.linkname:link, a.linknames:visited, a.linkname:active{
+	color: white;
+}
+
+a.linkname:hover{
+	color: #A8A9A9;
+}
+
